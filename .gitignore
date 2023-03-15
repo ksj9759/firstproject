@@ -1,3 +1,5 @@
 f.txt
 titanic.csv
 data/
+.ipynb_checkpoints/
+*.csv
